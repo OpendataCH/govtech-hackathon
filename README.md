@@ -1,6 +1,6 @@
 # GovTech Hackathon 2023
 
-Hackathon to collaboratively build, improve and use government APIs.
+At the GovTech Hackathon, we will collaboratively build, improve and use government APIs. Meet developers, experts and enthusiasts from the administration, business and civil society, and work together on our society’s digital foundation.
 
 See here:
 
