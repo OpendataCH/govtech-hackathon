@@ -11,7 +11,7 @@ Please open a PR, [write us an issue](issues) or [contact us](info@opendata.ch) 
 
 - [opendata.swiss](http://opendata.swiss) ([API](https://ckan.opendata.swiss/api)) is the main open data portal of the Swiss Federal Government. It has over 8'600 datasets and services from official sources to explore and download, with the [CKAN API](https://docs.ckan.org/en/latest/api/index.html) available for connecting to opendata.swiss with your [apps](https://opendata.swiss/de/showcase) and [widgets](https://github.com/datalets/ckan-embed).
 - [geo.admin.ch](http://www.geo.admin.ch/) ([API](http://api.geo.admin.ch/)), the Federal Geoportal, features live web maps with hundreds of geographic overlays, and diverse endpoints which allow you to extract the data for your applications.
-- [opentransportdata.swiss](https://opentransportdata.swiss) ([API](https://api.opentransportdata.swiss/)) is the customer information platform for Swiss public transport and individual mobility. Visit the [Cookbook] (https://opentransportdata.swiss/en/cookbook/verwendung-der-api/) to find out how to use the data in your apps.
+- [opentransportdata.swiss](https://opentransportdata.swiss) ([API](https://api.opentransportdata.swiss/)) is the customer information platform for Swiss public transport and individual mobility. Visit the [Cookbook](https://opentransportdata.swiss/en/cookbook/verwendung-der-api/) to find out how to use the data in your apps.
 
 # Regional portals
 
