@@ -3,7 +3,7 @@ Awesome Swiss Data Sources
 
 This file presents some of the main repositories of data in Switzerland in a brief overview, that we have tailored for participants of the [GovTech Hackathon](https://opendata.ch/events/govtech-hackathon/).
 Every source listed on this page has an openly accessible API - which may just require registering for an API key - whose machine-readable endpoint we link to directly.
-Earlier versions of this page can be found at [forum.opendata.ch](https://forum.opendata.ch/t/where-to-find-swiss-open-data/20) and [make.opendata.ch](https://make.opendata.ch/wiki/data:ch).
+Earlier versions of this page can be found at [forum.opendata.ch](https://forum.opendata.ch/t/where-to-find-swiss-open-data/20) and [make.opendata.ch](https://make.opendata.ch/wiki/data:ch). Check out [Awesome Open Government Data Switzerland](https://github.com/rnckp/awesome-ogd-switzerland) for a more comprehensive list of Open Government Data (OGD) portals, websites, APIs, tools and other related resources in Switzerland and abroad.
 
 Please open a PR, [write us an issue](issues) or [contact us](info@opendata.ch) with questions, corrections, suggestions 🙇 
 
