@@ -4,8 +4,8 @@ At the [GovTech Hackathon](https://opendata.ch/events/govtech-hackathon/), we wi
 
 See here:
 
-- [Official guidelines](GUIDELINES.md)
+- [Official guidelines](https://opendata.ch/guidelines/)
 - [Data resources](RESOURCES.md)
 - [Share kit](https://github.com/OpendataCH/govtech-hackathon/tree/main/share-kit/images%20social%20media)
-- [Challenge archive](challenges/)
-- [Results archive](results/)
+- [Challenges](https://hack.opendata.ch/event/56)
+- [Results archive](https://hack.opendata.ch/event/56)
