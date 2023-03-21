@@ -4,8 +4,12 @@ At the [GovTech Hackathon](https://opendata.ch/events/govtech-hackathon/), we wi
 
 See here:
 
+- [Information including Program](https://opendata.ch/events/govtech-hackathon/)
 - [Official guidelines](https://opendata.ch/guidelines/)
+- [Hack Code of Conduct](https://hackcodeofconduct.org/)
 - [Data resources](RESOURCES.md)
-- [Share kit](https://github.com/OpendataCH/govtech-hackathon/tree/main/share-kit/images%20social%20media)
 - [Challenges](https://hack.opendata.ch/event/56)
+- [API directory](https://docs.google.com/spreadsheets/d/1KB-Yx_VGiX0nGW8mMfjAPIKu-KzQOvbnMXYvjZNrDVM/edit?usp=sharing)
+- ["API Architecture Bund"](https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund.html)
 - [Results archive](https://hack.opendata.ch/event/56)
+- [Share kit](https://github.com/OpendataCH/govtech-hackathon/tree/main/share-kit/images%20social%20media)
