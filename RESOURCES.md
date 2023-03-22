@@ -34,4 +34,4 @@ Here you can find some well supported data sources, which may offer service-leve
 These are associations and community projects that offer APIs on a non-commercial, typically limited-support, basis.
 
 - [transport.opendata.ch](https://transport.opendata.ch) ([API](https://transport.opendata.ch/v1/locations?query=Bern)) aims to provide developers with easy programmatic access to public transport data within Switzerland.
- 
+ - [http://tykdemo.bedev.liip.ch:3000/](http://tykdemo.bedev.liip.ch:3000/) ([API](http://portal.tykdemo.bedev.liip.ch:3000/virtual/session-affairs)) provides a DEMO-API-Hub that enriches data from the [old Parliament API](http://ws-old.parlament.ch/) to make it machine-readible: [Parliament Sessions as JSON](http://portal.tykdemo.bedev.liip.ch:3000/virtual/session-affairs). Documentation can be found on the [Developer Portal](http://portal.tykdemo.bedev.liip.ch:3000/apis/) where the API can also be tested. Ask @stefina for details. 
